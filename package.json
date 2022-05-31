@@ -1,0 +1,14 @@
+{
+  "name": "productinventorymanager",
+  "version": "1.0.0",
+  "description": "Rooms To Go take-home assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ugonna Erinne",
+  "license": "ISC",
+  "bin": {
+    "product_inventory_manager": "./index.js"
+  }
+}
