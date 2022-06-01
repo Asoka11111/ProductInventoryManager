@@ -208,7 +208,7 @@ const listWarehouse = async () =>  {
 }
 
 if(args.length > 3) {
-    errorLog('only one argument can be accepted')
+    errorLog('only one command can be accepted')
     usage();
 }
 

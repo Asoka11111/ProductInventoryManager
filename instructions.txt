@@ -1,0 +1,11 @@
+Use the following steps to mutate the database:
+
+1. enter the directory of this project
+2. run npm install
+3. run npm start to see the help text
+4. run ```chmod +x ./index.js``` from project directory
+5. run <command> with [...args] like so:
+    ```./index.js <command>```
+    or
+    ```node index.js <command>```
+6. follow the prompts to pass in any necessary and desired optional arguments

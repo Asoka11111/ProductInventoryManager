@@ -7,7 +7,7 @@ import chalk from 'chalk';
 const usage = () => {
     const usageText = `
     Usage:
-        product_inventory_manager <command> [...args]
+        ./index.js <command> [...args]
 
         commands can be:
 
