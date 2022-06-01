@@ -10,5 +10,10 @@
   "license": "ISC",
   "bin": {
     "product_inventory_manager": "./index.js"
-  }
+  },
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "lowdb": "^3.0.0"
+  },
+  "type": "module"
 }
